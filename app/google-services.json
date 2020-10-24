@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340045508895",
+    "firebase_url": "https://blinkdetection2.firebaseio.com",
+    "project_id": "blinkdetection2",
+    "storage_bucket": "blinkdetection2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340045508895:android:31d02dffcb0953de33402a",
+        "android_client_info": {
+          "package_name": "com.example.blinkdetection2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340045508895-qat9v446lh7lfld5t26cu4ju70prjuhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzsVEZdOHcr8VKu-49pPVk9N9Am9u-6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340045508895-qat9v446lh7lfld5t26cu4ju70prjuhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
